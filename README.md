@@ -2,4 +2,4 @@
 
 # Aplicatii diverse pentru materia de Programare Dispozitive Mobile
 
-#prima incercare
+
